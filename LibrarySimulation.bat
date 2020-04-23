@@ -1,0 +1,1 @@
+java MultiAgentSystem.jar -gui ScenarioDesigner:msc.ai.mas.agent.ScenarioDesignAgent
